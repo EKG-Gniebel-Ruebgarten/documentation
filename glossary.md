@@ -6,6 +6,13 @@ permalink: /glossar
 ---
 
 # Glossar
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Eintrag / Inhalt
 Ein Eintrag in einer Sammlung. Kann alles von `Beitrag` über `Veranstaltung` bis hin zu `Person` sein.
