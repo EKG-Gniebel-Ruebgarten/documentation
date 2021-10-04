@@ -8,7 +8,7 @@ permalink: /glossar
 # Glossar
 {: .no_toc }
 
-## Table of contents
+## Inhalt
 {: .no_toc .text-delta }
 
 1. TOC
