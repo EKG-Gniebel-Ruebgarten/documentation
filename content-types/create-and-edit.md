@@ -8,6 +8,8 @@ permalink: /content-types/create-and-edit
 
 # Inhalte erstellen oder bearbeiten
 
+Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt mit folgendem Icon: ![Content-Manager Icon](/assets/icons/content-manager.svg)
+
 ## ➕ Einen neuen Eintrag anlegen
 Klicke links oben im Abschnitt `Sammlungen` auf das, was du erstellen willst. Nun erscheint eine Listen-Ansicht, die alle bereits erstellten Einträge anzeigt. Drücke rechts oben auf `Füge ... hinzu`. Du siehst jetzt Felder, die du ausfüllen kannst. Diese sind je nach Inhaltstyp unterschiedlich.
 
