@@ -3,7 +3,7 @@ layout: default
 title: Ein Formular erstellen
 nav_order: 2
 parent: Formulare
-grandparent: Inhalte
+grand_parent: Inhalte
 permalink: /content/forms/building-forms
 ---
 

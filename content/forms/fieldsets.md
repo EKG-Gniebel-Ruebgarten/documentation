@@ -3,7 +3,7 @@ layout: default
 title: Fieldsets
 nav_order: 1
 parent: Formulare
-grandparent: Inhalte
+grand_parent: Inhalte
 permalink: /content/forms/fieldsets
 ---
 

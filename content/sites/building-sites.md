@@ -3,8 +3,7 @@ layout: default
 title: Eine Seite bauen
 nav_order: 3
 parent: Seiten
-grandparent: Inhalte
-has_children: true
+grand_parent: Inhalte
 permalink: /content/sites/building-sites
 ---
 
