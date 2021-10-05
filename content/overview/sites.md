@@ -12,6 +12,8 @@ permalink: /content/types/sites
 {: .no_toc }
 Seiten enthalten größtenteils statische Informationen. Im Gegensatz zu Artikeln bleiben die Informationen, die sie enthalten länger relevant.
 
+## Mit anderen Inhalte verknüpfte Seiten
+
 ## Eine Seite bauen
 {: .no_toc }
 Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts zu bauen. Die Grundlage hierfür ist die frei definierbare Zone unter `Inhalt`, in der du verschiedene `Blöcke` hinzugefügen kannst. Klicke dort einfach auf das `+`, um loszulegen.
