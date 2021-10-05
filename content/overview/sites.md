@@ -9,16 +9,18 @@ permalink: /content/types/sites
 ---
 
 # Seiten
+{: .no_toc }
 Seiten enthalten größtenteils statische Informationen. Im Gegensatz zu Artikeln bleiben die Informationen, die sie enthalten länger relevant.
 
 ## Eine Seite bauen
-{: .no_toc .text-delta }
+{: .no_toc }
 Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts zu bauen. Die Grundlage hierfür ist die frei definierbare Zone unter `Inhalt`, in der du verschiedene `Blöcke` hinzugefügen kannst. Klicke dort einfach auf das `+`, um loszulegen.
+
+#### Inhalts-Blöcke
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-#### Inhalts-Blöcke
 
 ![Überschrift](/website-backend-documentation/assets/images/ui-blocks/heading.svg)
 
