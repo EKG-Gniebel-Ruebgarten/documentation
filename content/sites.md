@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 📄 Seiten
-nav_order: 1
+nav_order: 3
 parent: Inhalte
 permalink: /content/sites
 ---
