@@ -8,15 +8,15 @@ no_toc: true
 permalink: /content/types/
 ---
 
-# Übersicht
+# Übersicht der Inhaltstypen
 
 Hier sind die üblichsten Inhaltstypen:
 
-| Typ               | Beispiel                                                                                                                      | Sendet Newsletter beim Veröffentlichen |
+| Typ                         | Beispiel                                                                                                                      | Sendet Newsletter beim Veröffentlichen |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **Veranstaltung** | Gottesdienste; Veranstaltungen von Gruppen, die nicht regelmäßig sind; Gemeindewochenende, -fest; ...                         | ✔️ Ja                                  |
-| **Seite**         | Generell gültige Infos (Taufe, Konfi, ...), die sich nicht (groß) ändern (bei Gruppen und Einrichtungen siehe untere Tabelle) | ❌ Nein                                |
-| **Beitrag**       | "Updates", Neuigkeiten (aber Achtung: keine Veranstaltungen!)                                                                 | ✔️ Ja                                  |
+| [**Veranstaltung**](events) | Gottesdienste; Veranstaltungen von Gruppen, die nicht regelmäßig sind; Gemeindewochenende, -fest; ...                         | ✔️ Ja                                  |
+| [**Seite**](sites)          | Generell gültige Infos (Taufe, Konfi, ...), die sich nicht (groß) ändern (bei Gruppen und Einrichtungen siehe untere Tabelle) | ❌ Nein                                |
+| [**Beitrag**](articles)      | "Updates", Neuigkeiten (aber Achtung: keine Veranstaltungen!)                                                                 | ✔️ Ja                                  |
 
 Natürlich gibt es auch noch weitere Typen:
 
