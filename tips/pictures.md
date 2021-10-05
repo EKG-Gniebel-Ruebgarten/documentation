@@ -7,7 +7,6 @@ permalink: /tips/pictures
 ---
 
 # 📷 Bilder
-
 {: .no_toc }
 
 ## Inhalt

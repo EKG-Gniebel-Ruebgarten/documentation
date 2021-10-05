@@ -7,7 +7,6 @@ permalink: /tips/writing
 ---
 
 # ✏️ Tipps um gute Texte zu verfassen
-
 {: .no_toc }
 
 ## Inhalt
