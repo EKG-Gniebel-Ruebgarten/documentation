@@ -7,6 +7,10 @@ permalink: /content/types/sites/building
 ---
 
 # Eine Seite bauen
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts zu bauen. Die Grundlage hierfür ist die frei definierbare Zone unter `Inhalt`, in der du verschiedene `Blöcke` hinzugefügen kannst. Klicke dort einfach auf das `+`, um loszulegen.
 
