@@ -2,9 +2,8 @@
 layout: default
 title: Personen
 nav_order: 6
-parent: Inhaltstypen
-grand_parent: Inhalte
-permalink: /content/types/people
+parent: Inhalte
+permalink: /content/people
 ---
 
 # 👤 Personen

@@ -2,9 +2,8 @@
 layout: default
 title: Seiten
 nav_order: 1
-parent: Inhaltstypen
-grand_parent: Inhalte
-permalink: /content/types/sites
+parent: Inhalte
+permalink: /content/sites
 ---
 
 # 📄 Seiten

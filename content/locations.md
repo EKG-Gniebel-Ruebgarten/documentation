@@ -2,9 +2,8 @@
 layout: default
 title: Orte
 nav_order: 5
-parent: Inhaltstypen
-grand_parent: Inhalte
-permalink: /content/types/locations
+parent: Inhalte
+permalink: /content/locations
 ---
 
 # 🗺️ Orte

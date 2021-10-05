@@ -2,9 +2,8 @@
 layout: default
 title: Einrichtungen
 nav_order: 4
-parent: Inhaltstypen
-grand_parent: Inhalte
-permalink: /content/types/facilities
+parent: Inhalte
+permalink: /content/facilities
 ---
 
 # ⛪ Einrichtungen
