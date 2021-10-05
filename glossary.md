@@ -51,4 +51,4 @@ Tokens sind ein einzigartige Identifikatoren, die automatisch aus zufälligen Za
 
 **Wozu?**
 
-Wenn sich jemand beispielsweise für den E-Mail-Newsletter anmeldet, braucht man auch wieder eine Möglichkeit, sich abzumelden. Nun könnte einfach sagen, dass man dazu seine E-Mail-Adresse angeben könnte, aber dann kann jeder, der die E-Mail-Adresse kennt den Nutzer abmelden. Es braucht also etwas, was nur der Newsletter-Empfänger und der Betreiber der Webseite wissen, und genau das ist der Token. Damit hat er in gewisser Weise Ähnlichkeit mit einem Passwort.
+Wenn sich jemand beispielsweise für den E-Mail-Newsletter anmeldet, braucht man auch wieder eine Möglichkeit, sich abzumelden. Nun könnte einfach sagen, dass man dazu seine E-Mail-Adresse angeben könnte, aber dann könnte jeder, der die E-Mail-Adresse kennt, den Nutzer abmelden. Es braucht also etwas, was nur der Newsletter-Empfänger und der Betreiber der Webseite weiß, und genau das ist der Token. Damit hat er in gewisser Weise Ähnlichkeit mit einem Passwort, nur dass man ihn nicht selbst wählt.
