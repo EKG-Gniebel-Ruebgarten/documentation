@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Übersicht
-nav_order: 3
+title: Übersicht der Typen
+nav_order: 2
 parent: Inhalte
 permalink: /content-types/overview
 ---
@@ -21,6 +21,7 @@ Natürlich gibt es auch noch weitere Typen:
 | Typ               | Beispiel                                                                                                                                    | Sendet Newsletter beim Veröffentlichen |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | **Einrichtung**   | Unsere Gebäude (also Kirchen, Gemeindehäuser, Kindergärten, ...). Jede Einrichtung kann mehrere Ansprechpartner und einen Ort haben.        | ❌ Nein                                |
+| **Formular**      | 
 | **Ort**           | Ein Ort mit Koordinaten, Adresse und Gruppen und Veranstaltungen, die dort stattfinden. Orte wirst du vor allem dann erstellen, wenn es Veranstaltungen gibt, die an einem Ort stattfinden, der noch nicht eingetragen wurde. Kann auch in [Seiten eingebettet](../sites/building-sites#orte) werden. | ❌ Nein                                |
 | **Gruppe**        | Alles von Krabbelgruppen bis zum Seniorenabend.                                                                                             | ❌ Nein                                |
 | **Galerie**       | Eine Sammlung von Bildern oder anderen Dateien. Kann in [Seiten eingebettet](../sites/building-sites#galerie) werden.                       | ❌ Nein                                |
