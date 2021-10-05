@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personen
+title: 👤 Personen
 nav_order: 6
 parent: Inhalte
 permalink: /content/people

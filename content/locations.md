@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Orte
+title: 🗺️ Orte
 nav_order: 5
 parent: Inhalte
 permalink: /content/locations

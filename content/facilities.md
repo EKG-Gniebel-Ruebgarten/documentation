@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Einrichtungen
+title: ⛪ Einrichtungen
 nav_order: 4
 parent: Inhalte
 permalink: /content/facilities
