@@ -4,7 +4,7 @@ title: Personen
 nav_order: 6
 parent: Inhaltstypen
 grand_parent: Inhalte
-permalink: /content/types/sites
+permalink: /content/types/people
 ---
 
 # 👤 Personen
