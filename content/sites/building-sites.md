@@ -2,7 +2,7 @@
 layout: default
 title: Eine Seite bauen
 nav_order: 1
-parent: Seiten
+parent: 📄 Seiten
 grand_parent: Inhalte
 permalink: /content/sites/building-sites
 ---
