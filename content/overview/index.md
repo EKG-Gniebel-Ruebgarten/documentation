@@ -3,6 +3,7 @@ layout: default
 title: Inhaltstypen
 nav_order: 2
 parent: Inhalte
+has_children: true
 permalink: /content/types/
 ---
 
