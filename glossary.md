@@ -14,6 +14,8 @@ permalink: /glossar
 1. TOC
 {:toc}
 
+---
+
 ## Eintrag / Inhalt
 Ein Eintrag in einer Sammlung. Kann alles von `Beitrag` über `Veranstaltung` bis hin zu `Person` sein.
 
