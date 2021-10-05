@@ -4,6 +4,7 @@ title: Inhaltstypen
 nav_order: 2
 parent: Inhalte
 has_children: true
+no_toc: true
 permalink: /content/types/
 ---
 
