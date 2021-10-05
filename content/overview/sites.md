@@ -16,6 +16,8 @@ Seiten enthalten größtenteils statische Informationen. Im Gegensatz zu Artikel
 {: .no_toc }
 Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts zu bauen. Die Grundlage hierfür ist die frei definierbare Zone unter `Inhalt`, in der du verschiedene `Blöcke` hinzugefügen kannst. Klicke dort einfach auf das `+`, um loszulegen.
 
+![Zu Inhalt hinzufügen](/website-backend-documentation/assets/images/sites-add_to_content.png)
+
 1. TOC
 {:toc}
 
