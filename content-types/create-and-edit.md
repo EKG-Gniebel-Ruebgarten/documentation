@@ -11,10 +11,14 @@ permalink: /content-types/create-and-edit
 Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt mit folgendem Icon: ![Content-Manager Icon](/website-backend-documentation/assets/icons/content-manager.svg)
 
 ## ➕ Einen neuen Eintrag anlegen
- auf das, was du erstellen willst. Nun erscheint eine Listen-Ansicht, die alle bereits erstellten Einträge anzeigt. Drücke rechts oben auf `Füge ... hinzu`. Du siehst jetzt Felder, die du ausfüllen kannst. Diese sind je nach Inhaltstyp unterschiedlich.
+Klicke im Menü des Inhalts-Manager unter "Inhalt" auf das, was du erstellen willst. Nun erscheint eine Listen-Ansicht, die alle bereits erstellten Einträge anzeigt. Drücke rechts oben auf `Füge ... hinzu`. Du siehst jetzt Felder, die du ausfüllen kannst. Diese sind je nach Inhaltstyp unterschiedlich.
 
 ## ✏️ Einen Eintrag bearbeiten
-Gehe so vor beim vorherigen Punkt, aber klicke statt auf den Hinzufügen-Button auf einen Eintrag in der Liste. Jetzt kannst du ihn bearbeiten.
+Gehe so vor beim vorherigen Punkt, aber klicke statt auf den Hinzufügen-Button auf einen Eintrag in der Liste.
+
+!(/website-backend-documentation/assets/images/content-type-table.png)
+
+Jetzt kannst du ihn bearbeiten.
 
 ## Speichern und Veröffentlichen - Und was der Unterschied ist
 Rechts oben in der Bearbeiten-Ansicht siehst du einen grünen `Speichern`- und einen blauen (oder ausgegrauten) `Veröffentlichen`-Button (bzw. "`Nicht veröffentlichen`"). Bei manchen Inhaltstypen gibt es letzteren nicht.
