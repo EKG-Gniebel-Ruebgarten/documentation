@@ -9,7 +9,7 @@ on:
 
 jobs:
   checklinks:
-    name: Linux
+    name: Checking links
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
