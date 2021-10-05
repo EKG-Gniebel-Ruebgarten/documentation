@@ -18,9 +18,13 @@ Gehe so vor beim vorherigen Punkt, aber klicke statt auf den Hinzufügen-Button 
 
 !(/website-backend-documentation/assets/images/content-type-table.png)
 
-Jetzt kannst du ihn bearbeiten.
+Es öffnet sich die Bearbeiten-Ansicht:
 
-## Speichern und Veröffentlichen - Und was der Unterschied ist
+!(/website-backend-documentation/assets/images/content-type-editview.png)
+
+
+## ✅ Speichern und Veröffentlichen
+### Und was der Unterschied ist
 Rechts oben in der Bearbeiten-Ansicht siehst du einen grünen `Speichern`- und einen blauen (oder ausgegrauten) `Veröffentlichen`-Button (bzw. "`Nicht veröffentlichen`"). Bei manchen Inhaltstypen gibt es letzteren nicht.
 
 Beim Klick auf `Speichern` werden, wie man es erwarten würde, die Änderungen übernommen. Gibt es allerdings einen `Veröffentlichen`-Button, ist der Eintrag solange nicht sichtbar, bis du ihn veröffentlicht hast. **Beim Veröffentlichen** von Einträgen mit Newsletter-Funktion **werden alle Abonnenten des Newsletters benachrichtigt**. Das bedeutet, dass du zwar deinen Eintrag noch bearbeiten oder die Veröffentlichung rückgängig machen kannst, die E-Mail des Newsletters lässt sich im Nachhinein aber nicht mehr bearbeiten oder zurückrufen.
