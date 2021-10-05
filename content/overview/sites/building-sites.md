@@ -3,6 +3,7 @@ layout: default
 title: Eine Seite bauen
 nav_order: 1
 parent: Seiten
+grand_parent: Inhaltstypen
 permalink: /content/types/sites/building
 ---
 
