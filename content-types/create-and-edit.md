@@ -24,7 +24,8 @@ Es öffnet sich, wie beim Erstellen, die Bearbeiten-Ansicht.
 
 
 ## ✅ Speichern und Veröffentlichen
-### Und was der Unterschied ist
+*.. und was der Unterschied ist*
+
 Rechts oben in der Bearbeiten-Ansicht siehst du einen `Speichern`- und einen `Veröffentlichen`-Button (bzw. "`Nicht veröffentlichen`"). Bei manchen Inhaltstypen gibt es letzteren nicht.
 
 ![Speichern und veröffentlichen](/website-backend-documentation/assets/images/content-manager-editview-save_and_publish.png)
