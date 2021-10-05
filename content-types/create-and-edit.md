@@ -15,7 +15,7 @@ permalink: /content-types/create-and-edit
 1. TOC
 {:toc}
 
-Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt mit folgendem Icon: ![Content-Manager Icon](/website-backend-documentation/assets/icons/content-manager.svg)
+Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt:
 
 ![Linkes Menü](/website-backend-documentation/assets/images/content-manager-leftmenu.png)
 
