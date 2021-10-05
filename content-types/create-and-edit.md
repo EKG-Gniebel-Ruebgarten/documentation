@@ -18,7 +18,11 @@ permalink: /content-types/create-and-edit
 Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt mit folgendem Icon: ![Content-Manager Icon](/website-backend-documentation/assets/icons/content-manager.svg)
 
 ## ➕ Einen neuen Eintrag anlegen
-Klicke im Menü des Inhalts-Manager unter "Inhalt" auf das, was du erstellen willst. Nun erscheint eine Listen-Ansicht, die alle bereits erstellten Einträge anzeigt. Drücke rechts oben auf `Füge ... hinzu`. Du siehst jetzt Felder, die du ausfüllen kannst. Diese sind je nach Inhaltstyp unterschiedlich.
+Klicke im Menü des Inhalts-Manager unter "Inhalt" auf das, was du erstellen willst.
+
+![Inhalts-Manager sidebar](/website-backend-documentation/assets/images/content-manager-sidebar.png)
+
+Nun erscheint eine Listen-Ansicht, die alle bereits erstellten Einträge anzeigt. Drücke rechts oben auf `Füge ... hinzu`. Du siehst jetzt Felder, die du ausfüllen kannst. Diese sind je nach Inhaltstyp unterschiedlich.
 
 ![Bearbeiten-Ansicht](/website-backend-documentation/assets/images/content-manager-editview.png)
 
