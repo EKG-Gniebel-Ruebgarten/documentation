@@ -3,7 +3,6 @@ layout: default
 title: Einrichtungen
 nav_order: 4
 parent: Inhaltstypen
-has_children: true
 grand_parent: Inhalte
 permalink: /content/types/facilities
 ---

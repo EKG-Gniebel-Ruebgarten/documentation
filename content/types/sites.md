@@ -3,7 +3,6 @@ layout: default
 title: Seiten
 nav_order: 1
 parent: Inhaltstypen
-has_children: true
 grand_parent: Inhalte
 permalink: /content/types/sites
 ---

@@ -3,7 +3,6 @@ layout: default
 title: Personen
 nav_order: 6
 parent: Inhaltstypen
-has_children: true
 grand_parent: Inhalte
 permalink: /content/types/sites
 ---

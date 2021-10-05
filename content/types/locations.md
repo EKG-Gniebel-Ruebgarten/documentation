@@ -3,7 +3,6 @@ layout: default
 title: Orte
 nav_order: 5
 parent: Inhaltstypen
-has_children: true
 grand_parent: Inhalte
 permalink: /content/types/locations
 ---
