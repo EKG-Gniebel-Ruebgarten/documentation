@@ -10,11 +10,6 @@ permalink: /content/forms/building-forms
 # Ein Formular erstellen
 Um ein Formular zu erstellen gehe links im Menü unter `Plugins` auf `Formulare`. In der Liste der bereits erstellten Formulare gibt es einen einladenden Knopf der genau tut, was du willst: Ein Formular zu erstellen.
 
-## 🔠 Begriffe
-- **Formulare** (Forms): Recht selbsterklärend ;)
-- **Fieldsets**: Eine Sammmlung von Feldern, die in einem Formular angezeigt wird ([mehr dazu](/plugins/wiki/forms/fieldsets))
-- **Einreichungen** (Submissions): Jedes Mal, wenn ein Benutzer der Website das Formular ausfüllt, erstellt er eine Einreichung.
-
 ## 🏠 Aufbau
 Formulare haben eigene Eigenschaften (Name, Deadline, ...), aber die Felder an sich, die man am Ende als Besucher der Website ausfüllt werden über [Fieldsets](/plugins/wiki/forms/fieldsets) definiert.
 
