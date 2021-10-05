@@ -7,7 +7,7 @@ grand_parent: Inhalte
 permalink: /content/types/sites
 ---
 
-# Seiten
+# 📄 Seiten
 {: .no_toc }
 Seiten enthalten größtenteils statische Informationen. Im Gegensatz zu Artikeln bleiben die Informationen, die sie enthalten länger relevant.
 
