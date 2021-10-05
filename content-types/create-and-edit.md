@@ -16,11 +16,11 @@ Klicke im Menü des Inhalts-Manager unter "Inhalt" auf das, was du erstellen wil
 ## ✏️ Einen Eintrag bearbeiten
 Gehe so vor beim vorherigen Punkt, aber klicke statt auf den Hinzufügen-Button auf einen Eintrag in der Liste.
 
-![Tabelle der Inhalte](/website-backend-documentation/assets/images/content-type-table.png)
+![Tabelle der Inhalte](/website-backend-documentation/assets/images/content-manager-table.png)
 
 Es öffnet sich die Bearbeiten-Ansicht:
 
-![Bearbeiten-Ansicht](/website-backend-documentation/assets/images/content-type-editview.png)
+![Bearbeiten-Ansicht](/website-backend-documentation/assets/images/content-manager-editview.png)
 
 
 ## ✅ Speichern und Veröffentlichen
