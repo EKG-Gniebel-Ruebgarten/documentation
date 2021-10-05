@@ -17,7 +17,7 @@ permalink: /content-types/create-and-edit
 
 Die Verwaltung von Inhalten passiert im Inhalts-Manager. Dieser befindet sich im linken Menü als erster Punkt mit folgendem Icon: ![Content-Manager Icon](/website-backend-documentation/assets/icons/content-manager.svg)
 
-![Linkes Menü](/website-backend-documentation/assets/icons/content-manager-leftmenu.png)
+![Linkes Menü](/website-backend-documentation/assets/images/content-manager-leftmenu.png)
 
 ## ➕ Einen neuen Eintrag anlegen
 Klicke im Menü des Inhalts-Manager unter "Inhalt" auf das, was du erstellen willst.
