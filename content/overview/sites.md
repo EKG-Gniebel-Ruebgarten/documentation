@@ -19,18 +19,18 @@ Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts z
 1. TOC
 {:toc}
 
-<details><summary>#### Inhalts-Blöcke</summary>
+<details><summary>### Inhalts-Blöcke</summary>
 ui-blocks-content
 
 ![Überschrift](/website-backend-documentation/assets/images/ui-blocks/heading.svg)
 
 
-##### Überschrift
+#### Überschrift
 Eine große Überschrift mit kleinem Trennstrich darunter. Recht selbsterklärend. 😉
 
 ![Text](/website-backend-documentation/assets/images/ui-blocks/text.svg)
 
-##### Text
+#### Text
 Ein Textabschnitt, der mit Hilfe des Texteditors formatiert werden kann. Um die Formatierungsoptionen anzuzeigen wähle den Text aus, den du formatieren willst. Dann erscheint eine Leiste mit folgenden Optionen:
 
 - `Normal`: Welche Funktion der Text hat.<br/>Ist er eine Überschrift oder ein normaler Abschnitt? Dementsprechend wird er nachher auch auf der Website dargestellt.
@@ -42,11 +42,11 @@ Ein Textabschnitt, der mit Hilfe des Texteditors formatiert werden kann. Um die 
 - Link einfügen
 - `Tₓ`: Gesamte Formatierung löschen
 
-###### Bitte beachten
+##### Bitte beachten
 - Benutze fett und kursiv *nicht* gleichzeitig, um Text hervorzuheben.
 - Drücke einmal ⏎ (Enter) auf deiner Tastatur, um einen neuen Absatz zu machen. Für eine neue Zeile drücke ⇧ + ⏎ (Umstelltaste (Shift) und Enter).<br/>Die Unterscheidung ist wichtig, da ein Absatz einen neuen Textabschnitt ankündigt (also von Bedeutung für die Struktur des Textes ist), während eine neue Zeile nur ein Werkzeug zur Formatierung ist.
 
-###### Sonstige Felder
+##### Sonstige Felder
 `Hintergrund`:
 - `normal`: Kein Hintergrund
 - `subtle`: Leichtes Grau
@@ -55,7 +55,7 @@ Ein Textabschnitt, der mit Hilfe des Texteditors formatiert werden kann. Um die 
 
 ![Button](/website-backend-documentation/assets/images/ui-blocks/button.svg)
 
-##### Button
+#### Button
 Ein klickbarer Link mit verschiedenen Darstellungsoptionen.
 
 `Text`: Der Text, der auf dem Button angezeigt wird
@@ -70,7 +70,7 @@ Ein klickbarer Link mit verschiedenen Darstellungsoptionen.
 
 `Link`: Wo der Benutzer der Website landen soll, wenn er auf den Button klickt
 
-##### Bild
+#### Bild
 `Breite`:
 - `wide`: Volle Breite des Bildschirms
 - `normal`: Gleiche Breite wie der Großteil des restlichen Seiteninhalts
@@ -82,12 +82,12 @@ Wenn du mehrere Bilder einbetten willst benutze statt diesem Block bitte eine [G
 
 ![Akkordeon](/website-backend-documentation/assets/images/ui-blocks/accordeon.svg)
 
-##### Akkordeon
+#### Akkordeon
 Benutze diesen Block für weiterführende Informationen, die nicht unbedingt von Anfang an sichtbar sein müssen. Der Besucher muss auf den Titel klicken, damit sich der der Inhalt ausklappt. Es können mehrere Einträge hinzugefügt werden.
 
 ![Fortschritt](/website-backend-documentation/assets/images/ui-blocks/progress.svg)
 
-##### Fortschritt
+#### Fortschritt
 Ein "Ladebalken" mit Beschriftung. Nützlich beispielsweise für Spendenaktionen.
 
 `Beschriftung`: Was auf dem Balken angezeigt wird (z.B. Spendenstand)
@@ -96,60 +96,60 @@ Ein "Ladebalken" mit Beschriftung. Nützlich beispielsweise für Spendenaktionen
 
 </details>
 
-#### Listen-Inhalt
+### Listen-Inhalt
 ui-blocks-lists
 
 Die verschiedenen Listen-Typen teilen sich oft Einstellungen. Deswegen werden sie hier nicht per Block, sondern einmal gesamt erklärt.
 
-##### Darstellung
+#### Darstellung
 `Erscheinungsbild`:
 - `grid`: Raster, in dem immer zwei Einträge nebeneinander sind
 - `image_grid`: Wie `grid`, aber mit Bildern aus den Metadaten der Einträge (sofern definiert)
 - `image_list`: Liste mit Bildern hinter den Einträgen und großen Zwischenabständen
 
-##### Kategorien
+#### Kategorien
 Wird nur bei Inhaltstypen mit [Kategorien](/plugins/wiki/basics/categories) angezeigt.
 
 `Anzuzeigende Kategorien`: Welche Kategorien benötigt werden, um in dieser Liste angezeigt zu werden. Frei lassen, wenn alle angezeigt werden sollen.
 
 `Zu versteckende Kategorien`: Wenn ein Eintrag eine dieser Kategorien besitzt wird er nicht in dieser Liste angezeigt.
 
-##### Mehr laden
+#### Mehr laden
 `Limit`: Wie viele Einträge zunächst geladen werden sollen
 
 `"Mehr Laden"-Button`: Ob der Benutzer mehr laden darf oder nicht. Dementsprechend wird ein Button angezeigt.
 
-##### Besonderheiten
-###### Seiten
+#### Besonderheiten
+##### Seiten
 `Müssen ... untergeordnet sein`: Seiten haben ein Hierarchie-System statt Kategorien. Das heißt, dass bspw. die Taufe-Seite der Lebenssationen-Seite untergeordnet ist. Über dieses Feld lassen sich basierend darauf die Seiten filtern.
 
-###### Einrichtungen
+##### Einrichtungen
 `Karte anzeigen`: Festlegen, ob eine Karte über der Liste mit den Orten der Einrichtungen angezeigt werden soll. Probiere es einfach mal aus, es ist ziemlich cool...
 
-#### Eingebetteter Inhalt
+### Eingebetteter Inhalt
 ui-blocks-include
 
 ![Orte](/website-backend-documentation/assets/images/ui-blocks/locations.svg)
 
-##### Orte
+#### Orte
 Einen oder mehrere Orte in einer Karte anzeigen.
 
 [Mehr zu Orten](/plugins/wiki/other-types/locations)
 
-##### Galerie
+#### Galerie
 Eine Ansammlung von Bildern in wählbarem Layout.
 
 ![Formular](/website-backend-documentation/assets/images/ui-blocks/form.svg)
 
-##### Formular
+#### Formular
 Ein Formular einbetten, das dann in der Seite direkt ausgefüllt werden kann. Siehe [Formulare erstellen](/plugins/wiki/forms/building-forms), falls du eins erstellen willst.
 
-##### Einbetten
+#### Einbetten
 Kann andere Seiten in unsere Seite integrieren. Das ist z.B. für Video-Einbettungen von YouTube nützlich. Gib einfach die URL (der Text in der auf der Website in der Browser-Zeile steht) an.
 
 ![Personen](/website-backend-documentation/assets/images/ui-blocks/people.svg)
 
-##### Personen
+#### Personen
 Zeige Visitenkarte der ausgewählten Person(en). Falls eine Person noch nicht existiert, gehe unter `Sammlungen` auf `Personen` und erstelle sie.
 
 [Mehr zu Personen](/plugins/wiki/other-types/people)
