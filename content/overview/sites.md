@@ -19,7 +19,7 @@ Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts z
 1. TOC
 {:toc}
 
-#### Inhalts-Blöcke
+<details><summary>#### Inhalts-Blöcke</summary>
 ui-blocks-content
 
 ![Überschrift](/website-backend-documentation/assets/images/ui-blocks/heading.svg)
@@ -93,6 +93,8 @@ Ein "Ladebalken" mit Beschriftung. Nützlich beispielsweise für Spendenaktionen
 `Beschriftung`: Was auf dem Balken angezeigt wird (z.B. Spendenstand)
 
 `Prozent`: Wie viel des Balkens gefüllt sein soll (zwischen 0 und 100)
+
+</details>
 
 #### Listen-Inhalt
 ui-blocks-lists
