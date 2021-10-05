@@ -20,6 +20,7 @@ Seiten geben dir die Möglichkeit, aufwendige und optisch ansprechende Layouts z
 {:toc}
 
 #### Inhalts-Blöcke
+ui-blocks-content
 
 ![Überschrift](/website-backend-documentation/assets/images/ui-blocks/heading.svg)
 
@@ -94,6 +95,8 @@ Ein "Ladebalken" mit Beschriftung. Nützlich beispielsweise für Spendenaktionen
 `Prozent`: Wie viel des Balkens gefüllt sein soll (zwischen 0 und 100)
 
 #### Listen-Inhalt
+ui-blocks-lists
+
 Die verschiedenen Listen-Typen teilen sich oft Einstellungen. Deswegen werden sie hier nicht per Block, sondern einmal gesamt erklärt.
 
 ##### Darstellung
@@ -122,6 +125,7 @@ Wird nur bei Inhaltstypen mit [Kategorien](/plugins/wiki/basics/categories) ange
 `Karte anzeigen`: Festlegen, ob eine Karte über der Liste mit den Orten der Einrichtungen angezeigt werden soll. Probiere es einfach mal aus, es ist ziemlich cool...
 
 #### Eingebetteter Inhalt
+ui-blocks-include
 
 ![Orte](/website-backend-documentation/assets/images/ui-blocks/locations.svg)
 
