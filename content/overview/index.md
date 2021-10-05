@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Übersicht der Typen
+title: Inhaltstypen
 nav_order: 2
 parent: Inhalte
-permalink: /content-types/overview
+permalink: /content/types/
 ---
 
 # Übersicht

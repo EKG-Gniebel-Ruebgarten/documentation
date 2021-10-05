@@ -3,7 +3,7 @@ layout: default
 title: Erstellen & bearbeiten
 nav_order: 1
 parent: Inhalte
-permalink: /content-types/create-and-edit
+permalink: /content/create-and-edit
 ---
 
 # Inhalte erstellen oder bearbeiten
