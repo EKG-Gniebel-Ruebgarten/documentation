@@ -44,6 +44,6 @@ Das ist wohl die beste Art, sicherzustellen, dass man die Rechte daran hat. Auß
 Allerdings solltest du aber nicht vergessen werden, dass die Rechte der Personen auf dem Bild zu achten hat. Informiere dich bitte wenn du dir in einem Fall unsicher bist.
 
 ### "Fotos von der Stange"
-Echt schöne Bilder, die man einfach benutzen darf, gibt es bei [unsplash.com](https://unsplash.com/) (englisch) und [pexels.com](https://pexels.com/de-de). Noch mehr gibt es bei [pixabay.com](https://pixabay.com/de/), allerdings sind dort nicht alle ganz so optisch ansprechend.
+Echt schöne Bilder, die man einfach benutzen darf, gibt es bei <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">unsplash.com</a> (englisch) und <a href="https://pexels.com/de-de" target="_blank" rel="noopener noreferrer">pexels.com</a>. Noch mehr gibt es bei <a href="https://pixabay.com/de/" target="_blank" rel="noopener noreferrer">pixabay.com</a>, allerdings sind dort nicht alle ganz so optisch ansprechend.
 
 Bendenke aber immer, dass solche Bilder unsere Website etwas unpersönlicher machen. Deswegen ist es gut, zuerst nach eigenen Bildern zu schauen und erst, wenn sich nichts finden lässt, auf diese Bilder zurückzugreifen.
