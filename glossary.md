@@ -19,7 +19,7 @@ permalink: /glossar
 ## Eintrag / Inhalt
 Ein Eintrag in einer Sammlung. Kann alles von `Beitrag` über `Veranstaltung` bis hin zu `Person` sein.
 
-[Mehr zum Erstellen und Verwalten von Inhalten hier](/plugins/wiki/basics/create-and-edit)
+[Mehr zum Erstellen und Verwalten von Inhalten hier](content/create-and-edit)
 
 ---
 
@@ -42,7 +42,7 @@ Der Slug steht u.a. in der URL-Zeile des Browsers. Hat ein Beitrag beispielsweis
 ---
 
 ## Fieldset
-Siehe ["Was ist ein Fieldset?"](/plugins/wiki/forms/fieldsets)
+Siehe ["Was ist ein Fieldset?"](content/forms/fieldsets)
 
 ---
 
