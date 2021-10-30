@@ -8,7 +8,7 @@ permalink: /
 # Dokumentation
 Willkommen zur Dokumentation darüber, wie man die Website bearbeitet.
 
-<a href="/" target="_blank">In neuem Tab öffnen</a>{: .btn }
+<a href="{{ site.baseurl }}" target="_blank">In neuem Tab öffnen</a>{: .btn }
 
 ## Voraussetzungen
 ### Sprache
