@@ -35,7 +35,7 @@ Gruppenkategorien können die Zielgruppe sein ("Kinder", "Jugendliche", "Frauen"
 Leider können Kategorien (noch) nicht während dem Erstellen eines Eintrags erstellt werden. Du musst also
 1. deine Arbeit zwischenspeichern
 2. in die Listen-Ansicht der jeweiligen Kategorie wechseln
-3. per Klick auf `Füge ... hinzu` eine neue erstellen
+3. per Klick auf `Eintrag hinzufügen` eine neue erstellen
 4. zum Eintrag, den du vorher bearbeitet hast, zurückkehren
 
 ## Wozu Kategorien gut sind
