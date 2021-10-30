@@ -7,6 +7,10 @@ permalink: /content/categories
 ---
 
 # Kategorien
+{:no_toc}
+
+1. TOC
+{:toc}
 
 `Beiträge`, `Gruppen` und `Veranstaltungen` haben die Möglichkeit zu kategorisiert zu werden. In der Bearbeiten-Ansicht dieser Inhaltstypen gibt es auf der rechten Seite ein Feld, in dem die passenden Kategorien ausgewählt werden können.
 
