@@ -14,6 +14,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'EKG-Gniebel-Ruebgarten', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
