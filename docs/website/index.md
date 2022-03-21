@@ -3,7 +3,7 @@ title: Home
 sidebar_position: 1
 ---
 
-# Dokumentation
+# Website bearbeiten
 Willkommen zur Dokumentation darüber, wie man die Website bearbeitet.
 
 ## Voraussetzungen
