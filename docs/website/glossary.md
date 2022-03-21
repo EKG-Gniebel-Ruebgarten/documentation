@@ -19,7 +19,7 @@ Eine "Sorte" einer Sammlung. Beispielsweise sind `Seiten` ein Inhaltstyp, genau 
 
 ## Slug
 
-:::note
+:::note Hinweis
 
 Slugs werden in der Regel automatisch erstellt. Du musst dich nicht um sie kümmern. Wenn es dich dennoch interessiert, lies weiter.
 
@@ -42,7 +42,7 @@ Siehe ["Was ist ein Fieldset?"](content/forms/fieldsets) in der Kategorie "Formu
 
 ## Token
 
-:::note
+:::note Hinweis
 
 Tokens werden in der Regel automatisch erstellt. Du musst dich nicht um sie kümmern. Wenn es dich dennoch interessiert, lies weiter.
 
