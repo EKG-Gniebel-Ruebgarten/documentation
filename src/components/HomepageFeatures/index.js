@@ -1,17 +1,18 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Website bearbeiten',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Lerne, wie du die Inhalte unserer Homepage bearbeiten kannst.
       </>
     ),
+    link: '/docs/website'
   },
   {
     title: 'Focus on What Matters',
@@ -22,6 +23,7 @@ const FeatureList = [
         ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
+    link: '',
   },
   {
     title: 'Powered by React',
@@ -32,10 +34,11 @@ const FeatureList = [
         be extended while reusing the same header and footer.
       </>
     ),
+    link: '',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -44,6 +47,13 @@ function Feature({Svg, title, description}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+      </div>
+      <div className="text--center">
+        <Link
+          className="button button--secondary"
+          to={link}>
+          Lesen
+        </Link>
       </div>
     </div>
   );
