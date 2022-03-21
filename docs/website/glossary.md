@@ -7,23 +7,15 @@ permalink: /glossar
 # Glossar
 
 
-
-
-
-
----
-
 ## Eintrag / Inhalt
 Ein Eintrag in einer Sammlung. Kann alles von `Beitrag` über `Veranstaltung` bis hin zu `Person` sein.
 
 [Mehr zum Erstellen und Verwalten von Inhalten hier](content/create-and-edit)
 
----
 
 ## Inhaltstyp
 Eine Sammlung-Sorte. Beispielsweise sind `Seiten` ein Inhaltstyp, genau wie `Beiträge` und `Veranstaltungen` Inhaltstypen sind. Jeder Inhaltstyp hat andere Felder und Optionen und wird auf der Website anders dargestellt. Manche (wie `Seiten`, `Beiträge`, `Veranstaltungen`, ...) bekommen ihre eigene "Seite" (nicht zu verwechseln mit dem Inhaltstyp). Andere (z.B. `Personen`, `Orte`, `Formulare`, ...) haben keine eigene "Seite", sondern können in andere eingebettet werden. 
 
----
 
 ## Slug
 Ein Slug ist ein Identifikationsname, der
@@ -36,12 +28,10 @@ Der Slug steht u.a. in der URL-Zeile des Browsers. Hat ein Beitrag beispielsweis
 
 `https://ekg-gniebel-ruebgarten.de/article/rueckschau-zum-gemeindefest`
 
----
 
 ## Fieldset
 Siehe ["Was ist ein Fieldset?"](content/forms/fieldsets)
 
----
 
 ## Token
 *Normalerweise werden Tokens voll automatisch generiert. Das bedeutet, dass du dich eigentlich um Tokens nicht kümmern musst. Wenn du dennoch wissen willst, was ein Token ist, hier die Erklärung:*
