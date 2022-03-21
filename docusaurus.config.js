@@ -99,6 +99,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'de',
+    locales: ['de'],
   }
 };
 
