@@ -51,6 +51,7 @@ const config = {
         logo: {
           alt: 'EKG Gniebel Rübgarten Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
           {
