@@ -127,7 +127,7 @@ Eine Ansammlung von Bildern in wählbarem Layout.
 ![Formular](//img/ui-blocks/form.svg)
 
 ### Formular
-Ein Formular einbetten, das dann in der Seite direkt ausgefüllt werden kann. Siehe [Formulare erstellen](../building-forms), falls du eins erstellen willst.
+Ein Formular einbetten, das dann in der Seite direkt ausgefüllt werden kann. Siehe [Formulare erstellen](../forms/building-forms), falls du eins erstellen willst.
 
 ### Einbetten
 Kann andere Seiten in unsere Seite integrieren. Das ist z.B. für Video-Einbettungen von YouTube nützlich. Gib einfach die URL (der Text in der auf der Website in der Browser-Zeile steht) an.
