@@ -47,9 +47,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'EKG Gniebel Rübgarten',
+        title: 'Dokumentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'EKG Gniebel Rübgarten Logo',
           src: 'img/logo.svg',
         },
         items: [
