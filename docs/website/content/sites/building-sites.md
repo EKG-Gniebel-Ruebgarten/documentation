@@ -94,7 +94,7 @@ Die verschiedenen Listen-Typen teilen sich oft Einstellungen. Deswegen werden si
 - `image_list`: Liste mit Bildern hinter den Einträgen und großen Zwischenabständen
 
 ### Kategorien
-Wird nur bei Inhaltstypen mit [Kategorien](/plugins/wiki/basics/categories) angezeigt.
+Wird nur bei Inhaltstypen mit [Kategorien](../categories) angezeigt.
 
 `Anzuzeigende Kategorien`: Welche Kategorien benötigt werden, um in dieser Liste angezeigt zu werden. Frei lassen, wenn alle angezeigt werden sollen.
 
@@ -119,7 +119,7 @@ Wird nur bei Inhaltstypen mit [Kategorien](/plugins/wiki/basics/categories) ange
 ### Orte
 Einen oder mehrere Orte in einer Karte anzeigen.
 
-[Mehr zu Orten](/plugins/wiki/other-types/locations)
+[Mehr zu Orten](../locations)
 
 ### Galerie
 Eine Ansammlung von Bildern in wählbarem Layout.
@@ -127,7 +127,7 @@ Eine Ansammlung von Bildern in wählbarem Layout.
 ![Formular](//img/ui-blocks/form.svg)
 
 ### Formular
-Ein Formular einbetten, das dann in der Seite direkt ausgefüllt werden kann. Siehe [Formulare erstellen](/plugins/wiki/forms/building-forms), falls du eins erstellen willst.
+Ein Formular einbetten, das dann in der Seite direkt ausgefüllt werden kann. Siehe [Formulare erstellen](../building-forms), falls du eins erstellen willst.
 
 ### Einbetten
 Kann andere Seiten in unsere Seite integrieren. Das ist z.B. für Video-Einbettungen von YouTube nützlich. Gib einfach die URL (der Text in der auf der Website in der Browser-Zeile steht) an.
@@ -137,4 +137,4 @@ Kann andere Seiten in unsere Seite integrieren. Das ist z.B. für Video-Einbettu
 ### Personen
 Zeige Visitenkarte der ausgewählten Person(en). Falls eine Person noch nicht existiert, gehe unter `Sammlungen` auf `Personen` und erstelle sie.
 
-[Mehr zu Personen](/plugins/wiki/other-types/people)
+[Mehr zu Personen](../people)

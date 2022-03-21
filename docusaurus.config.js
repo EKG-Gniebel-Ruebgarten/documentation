@@ -64,7 +64,7 @@ const config = {
             items: [
               {
                 label: 'Website bearbeiten',
-                to: '/docs/intro',
+                to: '/docs/website',
               },
             ],
           },
