@@ -96,6 +96,10 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  i18n: {
+    defaultLocale: 'de',
+  }
 };
 
 module.exports = config;
