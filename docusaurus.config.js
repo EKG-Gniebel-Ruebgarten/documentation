@@ -40,6 +40,7 @@ const config = {
         language: "de"
       },
     ],
+    'plugin-image-zoom'
   ],
 
   themeConfig:
