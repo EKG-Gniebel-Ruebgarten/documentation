@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dokumentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://doku.ekg-gniebel-ruebgarten.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
