@@ -7,7 +7,7 @@ permalink: /content/categories
 
 # Kategorien
 
-`Beiträge`, `Gruppen` und `Veranstaltungen` haben die Möglichkeit, kategorisiert zu werden. In der Bearbeiten-Ansicht dieser Inhaltstypen gibt es auf der rechten Seite ein Feld, in dem die passenden Kategorien ausgewählt werden können.
+`Beiträge`, `Gruppen` und `Veranstaltungen` können kategorisiert werden. In der Bearbeiten-Ansicht dieser Inhaltstypen gibt es auf der rechten Seite ein Feld, in dem die passenden Kategorien ausgewählt werden können.
 
 ## Beispiele
 ### Beiträge
