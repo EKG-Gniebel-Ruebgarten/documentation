@@ -1,5 +1,5 @@
 ---
-title: 👤 Personen
+title: Personen
 sidebar_position: 12
 ---
 
