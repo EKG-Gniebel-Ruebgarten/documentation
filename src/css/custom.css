@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #925fff;
   --ifm-background-color: #f3f4f6;
   --ifm-code-font-size: 95%;
+  --ifm-footer-background-color: #111827;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,6 +28,7 @@
   --ifm-color-primary-lighter: #ede4ff;
   --ifm-color-primary-lightest: #ffffff;
   --ifm-background-color: #111827;
+  --ifm-footer-background-color: #111827;
 }
 
 .docusaurus-highlight-code-line {
