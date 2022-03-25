@@ -1,8 +1,6 @@
 ---
 title: Bilder
 sidebar_position: 2
-parent: Tipps
-permalink: /tips/pictures
 ---
 
 # 📷 Bilder

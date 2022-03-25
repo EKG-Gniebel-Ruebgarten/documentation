@@ -1,9 +1,6 @@
 ---
-title: 📨 Formulare
+title: Formulare
 sidebar_position: 7
-parent: Inhalte
-has_children: true
-permalink: /content/forms
 ---
 
 # 📨 Formulare

@@ -1,9 +1,6 @@
 ---
 title: Ein Formular erstellen
 sidebar_position: 2
-parent: 📨 Formulare
-grand_parent: Inhalte
-permalink: /content/forms/building-forms
 ---
 
 # Ein Formular erstellen

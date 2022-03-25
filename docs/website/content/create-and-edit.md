@@ -1,8 +1,6 @@
 ---
 title: Erstellen & bearbeiten
 sidebar_position: 1
-parent: Inhalte
-permalink: /content/create-and-edit
 ---
 
 # Inhalte erstellen oder bearbeiten

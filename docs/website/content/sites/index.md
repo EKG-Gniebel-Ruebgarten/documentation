@@ -1,9 +1,6 @@
 ---
-title: 📄 Seiten
+title: Seiten
 sidebar_position: 4
-parent: Inhalte
-has_children: true
-permalink: /content/sites
 ---
 
 # 📄 Seiten

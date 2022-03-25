@@ -1,16 +1,9 @@
 ---
 title: Texte schreiben
 sidebar_position: 1
-parent: Tipps
-permalink: /tips/writing
 ---
 
 # ✏️ Tipps um gute Texte zu verfassen
-
-
-
-
-
 
 Hier findest du Tipps, um Texte auf der Website ansprechend zu gestalten, denn es ist immer wichtig, **dem Medium angepasst** zu **schreiben**. Dazu hilft es, folgende Punkte immer im Hinterkopf zu haben:
 

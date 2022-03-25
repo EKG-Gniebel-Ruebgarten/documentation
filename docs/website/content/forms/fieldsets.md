@@ -1,9 +1,6 @@
 ---
 title: Fieldsets
 sidebar_position: 1
-parent: 📨 Formulare
-grand_parent: Inhalte
-permalink: /content/forms/fieldsets
 ---
 
 # Was sind Fieldsets?

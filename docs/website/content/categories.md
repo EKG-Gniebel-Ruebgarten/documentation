@@ -1,8 +1,6 @@
 ---
 title: Kategorien
 sidebar_position: 3
-parent: Inhalte
-permalink: /content/categories
 ---
 
 # Kategorien

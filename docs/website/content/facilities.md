@@ -1,8 +1,6 @@
 ---
 sidebar_position: 5
-title: ⛪ Einrichtungen
-parent: Inhalte
-permalink: /content/facilities
+title: Einrichtungen
 ---
 
 # ⛪ Einrichtungen

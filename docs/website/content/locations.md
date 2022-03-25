@@ -1,8 +1,6 @@
 ---
-title: 🗺️ Orte
+title: Orte
 sidebar_position: 8
-parent: Inhalte
-permalink: /content/locations
 ---
 
 # 🗺️ Orte

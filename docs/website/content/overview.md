@@ -1,8 +1,6 @@
 ---
 title: Übersicht der Inhaltstypen
 sidebar_position: 2
-parent: Inhalte
-permalink: /content/types/
 ---
 
 # Übersicht der Inhaltstypen

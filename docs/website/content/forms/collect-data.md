@@ -1,9 +1,6 @@
 ---
 title: Daten auslesen
 sidebar_position: 3
-parent: 📨 Formulare
-grand_parent: Inhalte
-permalink: /content/forms/collect-data
 ---
 
 # Daten auslesen und herunterladen

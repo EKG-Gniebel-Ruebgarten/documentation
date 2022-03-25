@@ -1,7 +1,6 @@
 ---
 title: Glossar
 sidebar_position: 4
-permalink: /glossar
 ---
 
 # Glossar

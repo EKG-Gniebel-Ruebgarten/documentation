@@ -1,8 +1,6 @@
 ---
 title: 👤 Personen
 sidebar_position: 12
-parent: Inhalte
-permalink: /content/people
 ---
 
 # 👤 Personen

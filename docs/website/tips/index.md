@@ -1,8 +1,6 @@
 ---
 title: Tipps
 sidebar_position: 4
-has_children: true
-permalink: /tips
 ---
 
 # Tipps
