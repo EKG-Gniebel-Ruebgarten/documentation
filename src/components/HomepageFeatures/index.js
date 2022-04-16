@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Website bearbeiten',
-    Svg: require('@site/static/img/home/undraw_publish_post_re_wmql.svg').default,
+    Svg: require('@site/static/img/home/undraw_website.svg').default,
     description: (
       <>
         Lerne, wie du die Inhalte unserer Homepage bearbeiten kannst.
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Design',
-    Svg: require('@site/static/img/home/undraw_publish_post_re_wmql.svg').default,
+    Svg: require('@site/static/img/home/undraw_design.svg').default,
     description: (
       <>
         Farben, Schriften, Icons - unser Design-System
