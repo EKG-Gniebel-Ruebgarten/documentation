@@ -61,6 +61,12 @@ const config = {
             label: 'Website bearbeiten',
           },
           {
+            type: 'doc',
+            docId: 'design/index',
+            position: 'left',
+            label: 'Design',
+          },
+          {
             href: 'https://ekg-gniebel-ruebgarten.de',
             label: 'Zur Website',
             position: 'right',
