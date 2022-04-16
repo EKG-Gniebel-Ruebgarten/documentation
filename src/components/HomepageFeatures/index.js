@@ -14,6 +14,16 @@ const FeatureList = [
     ),
     link: '/docs/website'
   },
+  {
+    title: 'Design',
+    Svg: require('@site/static/img/home/undraw_publish_post_re_wmql.svg').default,
+    description: (
+      <>
+        Farben, Schriften, Icons - unser Design-System
+      </>
+    ),
+    link: '/docs/design'
+  },
 ];
 
 function Feature({ Svg, title, description, link }) {
