@@ -5,4 +5,12 @@ sidebar_position: 2
 
 # Icons
 
-Die Icons sind im [Feather-Icons-Pack](https://feathericons.com) zu finden.
+Die Icons sind im Feather-Icons-Pack zu finden.
+
+```mdx-code-block
+<Link
+    className="button"
+    to="https://feathericons.com">
+    Feather Icons öffnen
+</Link>
+```
