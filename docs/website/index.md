@@ -12,7 +12,7 @@ import Link from '@docusaurus/Link';
 <Link
     className="button button--primary"
     to="https://bearbeiten.ekg-gniebel-ruebgarten.de/admin">
-    Backend öffnen
+    Bearbeiten-Portal öffnen
 </Link>
 ```
 
