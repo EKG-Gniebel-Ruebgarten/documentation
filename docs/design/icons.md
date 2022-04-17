@@ -11,7 +11,7 @@ Die Icons sind im Feather-Icons-Pack zu finden.
 import Link from '@docusaurus/Link';
 
 <Link
-    className="button"
+    className="button button--primary"
     to="https://feathericons.com">
     Feather Icons öffnen
 </Link>
