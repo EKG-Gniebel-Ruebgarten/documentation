@@ -8,6 +8,8 @@ sidebar_position: 2
 Die Icons sind im Feather-Icons-Pack zu finden.
 
 ```mdx-code-block
+import Link from '@docusaurus/Link';
+
 <Link
     className="button"
     to="https://feathericons.com">
