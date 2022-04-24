@@ -24,8 +24,6 @@ import Link from '@docusaurus/Link';
 Serifenlose Schriftart für Fließtexte
 
 ```mdx-code-block
-import Link from '@docusaurus/Link';
-
 <Link
     className="button button--primary"
     to="https://fonts.google.com/specimen/Playfair+Display">
