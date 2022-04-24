@@ -14,8 +14,8 @@ import Link from '@docusaurus/Link';
 
 <Link
     className="button button--primary"
-    to="https://feathericons.com">
-    Feather Icons öffnen
+    to="https://fonts.google.com/specimen/Open+Sans">
+    Auf Google Fonts öffnen / herunterladen
 </Link>
 ```
 
@@ -28,7 +28,7 @@ import Link from '@docusaurus/Link';
 
 <Link
     className="button button--primary"
-    to="https://feathericons.com">
-    Feather Icons öffnen
+    to="https://fonts.google.com/specimen/Playfair+Display">
+    Auf Google Fonts öffnen / herunterladen
 </Link>
 ```
