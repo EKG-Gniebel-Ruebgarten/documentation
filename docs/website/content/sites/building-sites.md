@@ -36,10 +36,10 @@ Ein Textabschnitt, der mit Hilfe des Texteditors formatiert werden kann. Um die 
 
 #### Sonstige Felder
 `Hintergrund`:
-- `normal`: Kein Hintergrund
-- `subtle`: Leichtes Grau
-- `raised`: Weiß mit Schatten
-- `accented`: Heller Text auf violetter Akzentfarbe
+- `Normal`: Kein Hintergrund
+- `Minimal`: Leichtes Grau
+- `Hervorgehoben`: Weiß mit Schatten
+- `Akzent-Farbe`: Heller Text auf violetter Akzentfarbe
 
 ![Button](//img/ui-blocks/button.svg)
 
@@ -48,21 +48,21 @@ Ein klickbarer Link mit verschiedenen Darstellungsoptionen.
 
 `Text`: Der Text, der auf dem Button angezeigt wird
 
-`Hintergrund`:
-- `normal`: Kein Hintergrund
-- `subtle`: Leichtes Grau
-- `raised`: Mit Schatten, ändert die Farbe wenn die Maus darüber ist
-- `accented`: Heller Text auf violetter Akzentfarbe
+`Link`: Wo der Benutzer der Website landen soll, wenn er auf den Button klickt
 
 `Linkes Icon`, `Rechtes Icon`: Die Symbole, die neben dem Text angezeigt werden sollen. Zum Aufheben der Auswahl das `X` rechts neben der Suchfunktion klicken. Dadurch wird kein Icon mehr angezeigt.
 
-`Link`: Wo der Benutzer der Website landen soll, wenn er auf den Button klickt
+`Hintergrund`:
+- `Normal`: Kein Hintergrund
+- `Minimal`: Leichtes Grau
+- `Hervorgehoben`: Weiß mit Schatten, ändert die Farbe wenn die Maus darüber ist
+- `Akzent-Farbe`: Heller Text auf violetter Akzentfarbe
 
 ### Bild
 `Breite`:
-- `wide`: Volle Breite des Bildschirms
-- `normal`: Gleiche Breite wie der Großteil des restlichen Seiteninhalts
-- `narrow`: Schmal
+- `Breit`: Volle Breite des Bildschirms
+- `Normal`: Gleiche Breite wie der Großteil des restlichen Seiteninhalts
+- `Schmal`: Schmal
 
 Bitte achte bei der Wahl der Breite des Bildes darauf, dass Bilder mit schlechter Auflösung in großer Darstellung nicht gut aussehen.
 
@@ -89,9 +89,9 @@ Die verschiedenen Listen-Typen teilen sich oft Einstellungen. Deswegen werden si
 
 ### Darstellung
 `Erscheinungsbild`:
-- `grid`: Raster, in dem immer zwei Einträge nebeneinander sind
-- `image_grid`: Wie `grid`, aber mit Bildern aus den Metadaten der Einträge (sofern definiert)
-- `image_list`: Liste mit Bildern hinter den Einträgen und großen Zwischenabständen
+- `Raster`: Raster, in dem immer zwei Einträge nebeneinander sind
+- `Raster mit Bildern`: Wie `Raster`, aber mit Bildern aus den Metadaten der Einträge (sofern definiert)
+- `Liste mit Bildern`: Liste mit Bildern im Hintergrund und großen Zwischenabständen
 
 ### Kategorien
 Wird nur bei Inhaltstypen mit [Kategorien](../categories) angezeigt.
