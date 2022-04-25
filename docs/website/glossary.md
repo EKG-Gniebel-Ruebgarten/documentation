@@ -47,7 +47,7 @@ Tokens werden in der Regel automatisch erstellt. Du musst dich nicht um sie küm
 
 :::
 
-Tokens sind ein einzigartige Identifikatoren, die automatisch aus zufälligen Zahlen und Buchstaben generiert werden. Damit hat er Ähnlichkeiten mit einem Slug (siehe Definition oben), ist aber so gut wie nicht zu erraten. `768029106571939889fc22ed4ce331ffdf2b081b` wäre ein Beispiel für einen solchen Token. Man sieht recht gut, dass er zufällig und nahezu unmöglich zu erraten ist.
+Tokens sind einzigartige Identifikatoren, die automatisch aus zufälligen Zahlen und Buchstaben generiert werden. Damit hat er Ähnlichkeiten mit einem Slug (siehe Definition oben), ist aber genau wie ein Passwort so gut wie nicht zu erraten. `768029106571939889fc22ed4ce331ffdf2b081b` wäre ein Beispiel für einen solchen Token. Man sieht recht gut, dass er zufällig und nahezu unmöglich zu erraten ist.
 
 **Wozu?**
 
