@@ -83,6 +83,10 @@ const config = {
                 label: 'Website bearbeiten',
                 to: '/docs/website',
               },
+              {
+                label: 'Design',
+                to: '/docs/design',
+              },
             ],
           },
           {
