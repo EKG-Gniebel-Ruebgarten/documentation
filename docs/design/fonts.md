@@ -14,8 +14,8 @@ import Link from '@docusaurus/Link';
 
 <Link
     className="button button--primary"
-    to="https://fonts.google.com/specimen/Open+Sans">
-    Auf Google Fonts öffnen / herunterladen
+    to="https://fonts.google.com/specimen/Playfair+Display">
+    Google Fonts öffnen / Herunterladen
 </Link>
 ```
 
@@ -26,7 +26,7 @@ Serifenlose Schriftart für Fließtexte
 ```mdx-code-block
 <Link
     className="button button--primary"
-    to="https://fonts.google.com/specimen/Playfair+Display">
-    Auf Google Fonts öffnen / herunterladen
+    to="https://fonts.google.com/specimen/Open+Sans">
+    Google Fonts öffnen / Herunterladen
 </Link>
 ```
