@@ -15,6 +15,16 @@ const FeatureList = [
     link: '/docs/website'
   },
   {
+    title: 'Account',
+    Svg: require('@site/static/img/home/undraw_account.svg').default,
+    description: (
+      <>
+        Wie du deinen Account erstellen und verwalten kannst.
+      </>
+    ),
+    link: '/docs/account'
+  },
+  {
     title: 'Design',
     Svg: require('@site/static/img/home/undraw_design.svg').default,
     description: (

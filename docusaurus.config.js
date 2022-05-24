@@ -62,6 +62,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'account/index',
+            position: 'left',
+            label: 'Account',
+          },
+          {
+            type: 'doc',
             docId: 'design/index',
             position: 'left',
             label: 'Design',
@@ -82,6 +88,10 @@ const config = {
               {
                 label: 'Website bearbeiten',
                 to: '/docs/website',
+              },
+              {
+                label: 'Account',
+                to: '/docs/account',
               },
               {
                 label: 'Design',
