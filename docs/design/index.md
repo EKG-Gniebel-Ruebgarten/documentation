@@ -6,6 +6,8 @@ sidebar_position: 1
 # Design
 
 ```mdx-code-block
+import Link from '@docusaurus/Link';
+
 <div class="container" style={{ padding: 0 }}>
   <div class="row is-multiline">
     {/* Icons */}
