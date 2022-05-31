@@ -41,3 +41,26 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Cards */
+@media screen and (min-width: 996px) {
+  .row.is-multiline .col {
+    margin-top: var(--ifm-spacing-horizontal) !important;
+    margin-bottom: var(--ifm-spacing-horizontal) !important;
+  }
+}
+
+a.card {
+  text-decoration: none !important;
+  color: var(--ifm-color-content);
+  display: flex;
+  border: 2px solid var(--ifm-color-emphasis-300);
+}
+a.card .card__body {
+  flex: 1;
+  flex-grow: 1;
+}
+a.card:hover {
+  transition: all 0.2s ease;
+  border: 2px solid var(--ifm-color-primary);
+}
