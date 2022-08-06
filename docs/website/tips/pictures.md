@@ -31,7 +31,7 @@ Denke immer daran, dass du Bilder nicht irgendwo her nehmen darfst. Das meiste, 
 ### Bilder selber machen
 Das ist wohl die beste Art, sicherzustellen, dass man die Rechte daran hat. Außerdem zeigen sie unsere Gemeinde **viel authentischer** als ein Bild aus dem Internet.
 
-Allerdings solltest du aber nicht vergessen werden, dass die Rechte der Personen auf dem Bild zu achten hat. Informiere dich bitte wenn du dir in einem Fall unsicher bist.
+Allerdings solltest du nicht vergessen, dass man auf die Rechte der Personen in dem Bild zu achten hat. Informiere dich bitte, wenn du dir in einem Fall unsicher bist.
 
 ### "Fotos von der Stange"
 Echt schöne Bilder, die man einfach benutzen darf, gibt es bei <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">unsplash.com</a> (englisch) und <a href="https://pexels.com/de-de" target="_blank" rel="noopener noreferrer">pexels.com</a>. Noch mehr gibt es bei <a href="https://pixabay.com/de/" target="_blank" rel="noopener noreferrer">pixabay.com</a>, allerdings sind dort nicht alle ganz so optisch ansprechend.
