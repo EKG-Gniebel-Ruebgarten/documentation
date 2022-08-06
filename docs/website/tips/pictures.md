@@ -8,7 +8,7 @@ sidebar_position: 2
 Gute Bilder sind unersetzbar wenn es darum geht, die Webseite ansprechend zu machen. Deshalb sollte dir bei der Bildwahl folgendes bewusst sein:
 
 ## 👀 Auflösung
-Bilder sollten, wenn sie groß auf der Website angezeigt werden sollen, **mindestens 1920 x 1080 Pixel** Auflösung haben! Suche immer nach der bestmöglichen Auflösung des Bildes. Beim Hochladen hier auf die Website brauchst du dir keine Gedanken über zu hohe Auflösungen zu machen. Dass Bilder schnell laden macht die Seite automatisch.
+Bilder sollten, wenn sie groß auf der Website angezeigt werden sollen, **mindestens 1920 x 1080 Pixel** Auflösung haben! Suche immer nach der bestmöglichen Auflösung des Bildes. Beim Hochladen auf die Website brauchst du dir keine Gedanken über zu hohe Auflösungen zu machen. Die Bilder werden automatisch optimiert, sodass sie möglichst schnell laden, egal wie groß sie am Anfang waren.
 
 ### Fall 1: Es gibt ein besseres Original
 Wenn das Bild, das du hast, eine geringe Auflösung hat, aber du den kennst, der das Bild aufgenommen hat: **Frage nach dem Original**! Gerade wenn das Bild verschickt wurde, kann es sein, dass es dabei an Qualität verloren hat. Häufige Ursachen sind z.B.:
