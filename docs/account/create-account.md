@@ -20,6 +20,6 @@ Jetzt musst du in deinem E-Mail-Postfach nachschauen, denn wir schicken dir eine
 Klicke "Weiter", bis du dich einloggen kannst. Gib dann deine neu erstellten Daten (E-Mail und Passwort), um dich anzumelden.
 Hin und wieder erscheint folgender Hinweis:
 
-![Mfa-Prompt](//img/account/mfa-prompt.jpg)
+(Screenshot noch TODO)
 
 Das ist eine Aufforderung, deinen Account sicherer zu machen. Wenn du nichts damit anfangen kannst, kannst du diese Aufforderung überspringen. Wenn du mehr wissen willst, lies [hier](./setup-mfa) nach.
