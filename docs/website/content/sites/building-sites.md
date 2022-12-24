@@ -20,15 +20,21 @@ Eine große Überschrift mit kleinem Trennstrich darunter. Recht selbsterklären
 
 ### Text
 Ein Textabschnitt, der mit Hilfe des Texteditors formatiert werden kann. Um die Formatierungsoptionen anzuzeigen wähle den Text aus, den du formatieren willst. Dann erscheint eine Leiste mit folgenden Optionen:
-
-- `Normal`: Welche Funktion der Text hat.<br/>Ist er eine Überschrift oder ein normaler Abschnitt? Dementsprechend wird er nachher auch auf der Website dargestellt.
 - `B`: Fett drucken
 - `I`: Kursiv drucken
-- `S`: Durchgestrichen
-- `"`: Zitat einfügen
-- Listenoptionen von links nach rechts: Nummerierte Aufzählung, Unnummerierte Aufzählung, Aufzählung eine Ebene höher rücken, Aufzählung eine Ebene tiefer rücken (macht eine "Unter-Liste")
-- Link einfügen
 - `Tₓ`: Gesamte Formatierung löschen
+
+Außerdem gibt es in der oberen Leiste folgende Funktionen:
+- `Absatz`: Welche Funktion der Text hat.<br/>Ist er eine Überschrift oder ein normaler Abschnitt? Dementsprechend wird er nachher auch auf der Website dargestellt.
+- Listenoptionen von links nach rechts
+  - Unnummerierte Aufzählung
+  - Nummerierte Aufzählung
+  - Aufzählung eine Ebene höher rücken
+  - Aufzählung eine Ebene tiefer rücken (macht eine "Unter-Liste")
+- `-`: Trennlinie einfügen
+- Medien einfügen
+- `"`: Zitat einfügen
+- Link einfügen
 
 #### Bitte beachten
 - Benutze fett und kursiv *nicht* gleichzeitig, um Text hervorzuheben.
